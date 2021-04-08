@@ -1,0 +1,13 @@
+C:\Users\antho\repos\VariablePractice\bin\Debug\netcoreapp3.1\VariablePractice.exe
+C:\Users\antho\repos\VariablePractice\bin\Debug\netcoreapp3.1\VariablePractice.deps.json
+C:\Users\antho\repos\VariablePractice\bin\Debug\netcoreapp3.1\VariablePractice.runtimeconfig.json
+C:\Users\antho\repos\VariablePractice\bin\Debug\netcoreapp3.1\VariablePractice.runtimeconfig.dev.json
+C:\Users\antho\repos\VariablePractice\bin\Debug\netcoreapp3.1\VariablePractice.dll
+C:\Users\antho\repos\VariablePractice\bin\Debug\netcoreapp3.1\VariablePractice.pdb
+C:\Users\antho\repos\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.csprojAssemblyReference.cache
+C:\Users\antho\repos\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.AssemblyInfo.cs
+C:\Users\antho\repos\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.dll
+C:\Users\antho\repos\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.pdb
+C:\Users\antho\repos\VariablePractice\obj\Debug\netcoreapp3.1\VariablePractice.genruntimeconfig.cache
